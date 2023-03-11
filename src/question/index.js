@@ -1,0 +1,160 @@
+export const quiz ={
+  topic: 'javascript',
+  level: 'beginner',
+  totalQuestions: 25,
+  perQuestionScore: 1,
+
+  questions: [
+    {
+      question: 'Who is the Father of Abraham?',
+      choices: ['Isaac', 'Noah', 'Terah', 'none of the above'],
+      types: 'MCQs',
+      correctAnswer: 'Terah',
+    },
+    {
+      question: 'And Moses Married_____ the Daughter of ______',
+      choices: ['Mariam, Pharaoh', 'Zipporah, Jabez', 'Deborah, Jethro', 'Zipporah, Jethro'],
+      types: 'MCQs',
+      correctAnswer: 'Zipporah, Jethro',
+    },
+    {
+      question: 'Who was the priest when David ate the hallowed bread?',
+      choices: ['Eleazar', 'Ahimelech', 'Ithamar', 'Zechariah'],
+      types: 'MCQs',
+      correctAnswer: 'Ahimelech',
+    },
+    {
+      question: 'Jonathan is whose son?',
+      choices: ['Saul', 'David', 'Samuel', 'Eli'],
+      types: 'MCQs',
+      correctAnswer: 'Saul',
+    },
+    {
+      question: 'Aceldama means what?',
+      choices: ['It is finished', 'Field of blood', 'Arise', 'Be opened'],
+      types: 'MCQs',
+      correctAnswer: 'Field of blood',
+    },
+    {
+      question: 'Who betrayed Jesus?',
+      choices: ['Jabez', 'John', 'Jacob', 'None of the above'],
+      types: 'MCQs',
+      correctAnswer: 'None of the above',
+    },
+    {
+      question: 'Ephphatha means?',
+      choices: ['Be opened', 'My lord My lord why hath thou forsaken me?', 'Be stilled', 'None of the above'],
+      types: 'MCQs',
+      correctAnswer: 'Be opened',
+    },
+    {
+      question: 'Seth begat ______',
+      choices: ['Enoch', 'Lamech', 'Enos', 'Elijah'],
+      types: 'MCQs',
+      correctAnswer: 'Enos',
+    },
+    {
+      question: 'Cain means?',
+      choices: ['Replace', 'Gotten', 'Stone', 'Gold'],
+      types: 'MCQs',
+      correctAnswer: 'Gotten',
+    },
+    {
+      question: 'In the year that king Uzziah died',
+      choices: ['I died', 'I came alive', 'I saw the Lord', 'I rose up'],
+      types: 'MCQs',
+      correctAnswer: 'I saw the Lord',
+    },
+    {
+      question: 'Who denied Jesus?',
+      choices: ['Jabez', 'John', 'Jacob', 'Peter'],
+      types: 'MCQs',
+      correctAnswer: 'Peter',
+    },
+    {
+      question: 'Who was the oldest man in the bible',
+      choices: ['Methuselah', 'Lamech', 'Jared', 'Mahalaleel'],
+      types: 'MCQs',
+      correctAnswer: 'Methuselah',
+    },
+    {
+      question: 'The oldest man of the bible died at the age of?',
+      choices: ['696years', '639years', '980years', '969years'],
+      types: 'MCQs',
+      correctAnswer: '969years',
+    },
+    {
+      question: 'The longest verse of the whole bible is?',
+      choices: ['James 3:10', 'Esther 6:9', 'Genesis 2:20', 'John 11:35'],
+      types: 'MCQs',
+      correctAnswer: 'Esther 6:9',
+    },
+    {
+      question: 'Why persecuted thou me? was said to who?',
+      choices: ['Festus', 'Herod', 'Peter', 'Saul'],
+      types: 'MCQs',
+      correctAnswer: 'Saul',
+    },
+    {
+      question: 'Who replaced Judas?',
+      choices: ['Barsabas', 'Matthias', 'Joseph', 'Justus'],
+      types: 'MCQs',
+      correctAnswer: 'Matthias',
+    },
+    {
+      question: 'Who was the uncle of Esther?',
+      choices: ['Mordecai', 'Herod', 'Simon', 'Matthew'],
+      types: 'MCQs',
+      correctAnswer: 'Mordecai',
+    },
+    {
+      question: 'What is the longest chapter of the bible?',
+      choices: ['Revelation 22', 'Genesis 50', 'Psalm 118', 'Psalm 119'],
+      types: 'MCQs',
+      correctAnswer: 'Psalm 119',
+    },
+    {
+      question: 'Who was the mother of John the baptist?',
+      choices: ['Rebecca', 'Esther', 'Elizabeth', 'Salome'],
+      types: 'MCQs',
+      correctAnswer: 'Elizabeth',
+    },
+    {
+      question: 'Who was the first person to see Peter when he came out of the prison?',
+      choices: ['Rhoda', 'Mary', 'Eunice', 'Loiz'],
+      types: 'MCQs',
+      correctAnswer: 'Rhoda',
+    },
+    {
+      question: 'Who was the priest that took over after Aaron?',
+      choices: ['Abihu', 'Nadab', 'Ithamar', 'Eleazar'],
+      types: 'MCQs',
+      correctAnswer: 'Eleazar',
+    },
+    {
+      question: 'Who was the successor of Moses?',
+      choices: ['Levi', 'Joshua', 'Amram', 'Caleb'],
+      types: 'MCQs',
+      correctAnswer: 'Joshua',
+    },
+    {
+      question: 'How many human entered the Ark made by Noah?',
+      choices: ['8', '12', '7', '18'],
+      types: 'MCQs',
+      correctAnswer: '8',
+    },
+    {
+      question: 'David is number what son of Jesse?',
+      choices: ['3', '6', '7', '8'],
+      types: 'MCQs',
+      correctAnswer: '8',
+    },
+    {
+      question: 'This i say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh. Can be found where?',
+      choices: ['Ephesians 6:10', 'Galatians 5:16', 'Galatians 3:6', '1Corinthians 3:16'],
+      types: 'MCQs',
+      correctAnswer: 'Galatians 5:16',
+    }
+    
+  ],
+}
